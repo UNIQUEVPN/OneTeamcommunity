@@ -1,1 +1,26 @@
-
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "104.248.149.169",
+    "Flag" : "sg",
+    "Name" : "Online Update !!!"
+  } ],
+  "Payloads" : [ {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "HhFp8Fs2eZ9rQXUdj4nFOUC2j24Nq8OTJ/JCZ7qQGGisc/5Oov2G/CpQPDdCauNA",
+    "Name" : "Please Update First ⚠️",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : true,
+    "ShowText" : true,
+    "Text" : "Facebook Bypass Promos !!!",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : false,
+  "GuiFlags" : false,
+  "Changelogs" : "<strong>Please Updated</strong><br><br>",
+  "Version" : 1.1
+}
