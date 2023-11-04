@@ -1,27 +1,27 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "104.248.149.169",
+    "DomainOrIP" : "us22sw.devsiple.com",
     "Flag" : "sg",
     "Name" : "SINGAPORE SERVER 01 (NON TORRENT)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "104.248.149.169",
+    "DomainOrIP" : "us22sw.devsiple.com",
     "Flag" : "sg",
     "Name" : "SINGAPORE SERVER 02 (NON TORRENT)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "104.248.149.169",
+    "DomainOrIP" : "us22sw.devsiple.com",
     "Flag" : "sg",
     "Name" : "SINGAPORE SERVER 03 (NON TORRENT)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "104.248.149.169",
+    "DomainOrIP" : "us22sw.devsiple.com",
     "Flag" : "sg",
     "Name" : "SINGAPORE SERVER 04 (NON TORRENT)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "104.248.149.169",
+    "DomainOrIP" : "us22sw.devsiple.com",
     "Flag" : "sg",
     "Name" : "SINGAPORE SERVER 05 (NON TORRENT)"
   } ],
@@ -341,5 +341,5 @@
   "GuiCategories" : true,
   "GuiFlags" : false,
   "Changelogs" : "<strong>Welcome To OneTeamcommunity</strong><br><br>",
-  "Version" : 1.2
+  "Version" : 1.3
 }
